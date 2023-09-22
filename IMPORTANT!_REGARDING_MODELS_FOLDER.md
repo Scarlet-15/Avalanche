@@ -11,3 +11,5 @@ To use the deployment folder and run the website we need the h5 files of model.F
 2.Unzip the folders and move these folders to the deployment folder.Only then you will be able to access the models .h5 files.
 
 3.Please check for correct paths after the above steps.
+
+4.Run model_runner first to get forecasted values as a binary file and then run the script.py
