@@ -4,10 +4,10 @@ To use the deployment folder and run the website we need the h5 files of model.F
 
 1.Download 
 
-[forecast_models_single_digit](https://stackoverflow.com/questions/45228395/error-no-module-named-fcntl)
+[forecast_models_single_digit](https://drive.google.com/drive/folders/1f6eRjAzXdX4shzsG8-hd_BKD9L_or-Rb?usp=drive_link)
 
 [forecast_models_double_digit](https://drive.google.com/drive/folders/1pGErfyYw8cBDG7xzaFeiLrBeWXyNnHFM?usp=drive_link)
 
-2.Unzip the folder and move these folders to the deployment folder.Only then you will be able to access the model .h5 files.
+2.Unzip the folders and move these folders to the deployment folder.Only then you will be able to access the models .h5 files.
 
 3.Please check for correct paths after the above steps.
